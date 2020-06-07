@@ -27,4 +27,4 @@ attr_accessor :name, :roster
     sorted_hash
   end
   
-end  
+end
